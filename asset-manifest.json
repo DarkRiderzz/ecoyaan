@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecoyaan/static/css/main.418960a0.css",
-    "main.js": "/ecoyaan/static/js/main.8d7876f6.js",
-    "static/media/slick.svg": "/ecoyaan/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ecoyaan/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ecoyaan/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/ecoyaan/index.html",
-    "static/media/slick.woff": "/ecoyaan/static/media/slick.295183786cd8a1389865.woff",
-    "main.418960a0.css.map": "/ecoyaan/static/css/main.418960a0.css.map",
-    "main.8d7876f6.js.map": "/ecoyaan/static/js/main.8d7876f6.js.map"
+    "main.css": "/eco-yaan/static/css/main.683db873.css",
+    "main.js": "/eco-yaan/static/js/main.785fc726.js",
+    "static/media/slick.svg": "/eco-yaan/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/eco-yaan/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/eco-yaan/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/eco-yaan/index.html",
+    "static/media/slick.woff": "/eco-yaan/static/media/slick.295183786cd8a1389865.woff",
+    "main.683db873.css.map": "/eco-yaan/static/css/main.683db873.css.map",
+    "main.785fc726.js.map": "/eco-yaan/static/js/main.785fc726.js.map"
   },
   "entrypoints": [
-    "static/css/main.418960a0.css",
-    "static/js/main.8d7876f6.js"
+    "static/css/main.683db873.css",
+    "static/js/main.785fc726.js"
   ]
 }
