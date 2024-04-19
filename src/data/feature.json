@@ -1,0 +1,44 @@
+{
+  "features": [
+    {
+      "heading": "Join our community in creating a more sustainable future for everyone",
+      "img": "./image/feature-1.png",
+      "paragraph": [
+        {
+          "para": "At Ecoyaan, we are more than just a platform. Our vision is to build an eco-conscious community for people and products."
+        },
+        {
+          "para": "Consider us your partner for all things sustainable. To keep you motivated on the journey, we will provide you with engaging information about climate change, the latest updates on climate policies and lifestyle tips that you can adopt to reduce your impact on the environment."
+        }
+      ]
+    },
+    {
+      "heading": "Carefully curated Eco-friendly products",
+
+      "img": "./image/feature-2.png",
+      "paragraph": [
+        {
+          "para": "We believe that every purchase you make can have a positive impact on the planet and the future."
+        },
+        {
+          "para": "Soon, we will be connecting you with eco-friendly and sustainable products that are carefully selected based on their environmental and social benefits."
+        }
+      ]
+    },
+    {
+      "heading": "For businesses that care deeply about sustainability",
+      "img": "./image/feature-3.png",
+      "paragraph": [
+        {
+          "para": "Do you run a business that is committed to sustainability in every aspect of your work?"
+        },
+        {
+          "para": "Do you want to showcase your products to an incredible audience of eco-conscious consumers who care?"
+        },
+        {
+          "para": "If yes, then you are the perfect fit for our platform. Our community appreciates and supports businesses that are transparent, ethical, and innovative in their approach to sustainability. Contact us today:"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.card {
+  background-color: #ffffff;
+  padding: 40px 24px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.card-heading {
+  color: #101828;
+  font-family: "Cabinet Grotesk", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 52px;
+  padding-top: 12px;
+  padding-bottom: 4px;
+}
+.card-description {
+  font-family: "Public Sans";
+  color: #475467;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+@media (max-width: 34rem) {
+  .card {
+    padding: 2.4rem;
+  }
+  .card-description {
+    font-size: 16px;
+    line-height: 24x;
+  }
+}

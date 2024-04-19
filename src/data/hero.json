@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "heading": "Buy Less, Buy Better!",
+      "para": "Authentic source of truth for your sustainability needs.",
+      "buttonText": "ABOUT US →",
+      "img": "./image/hero-1.png"
+    },
+    {
+      "heading": "Follow us on Instagram",
+      "para": "For climate news, lifestyle tips, & updates",
+      "buttonText": "FOLLOW US",
+      "img": "./image/hero-2.png"
+    },
+    {
+      "heading": "Are you a business that truly cares about sustainability?",
+      "class": "hero-heading-text-small",
+      "para": "We would love to work with you",
+      "buttonText": "GET IN TOUCH",
+      "img": "./image/hero-3.png"
+    }
+  ]
+}
